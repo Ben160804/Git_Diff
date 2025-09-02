@@ -39,7 +39,7 @@ flutter --version
 
 ### Clone and Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ben160804/Git_Diff.git
 cd gitdiff
 flutter pub get
 ```
